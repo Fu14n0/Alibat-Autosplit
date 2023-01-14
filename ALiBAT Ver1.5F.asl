@@ -1,6 +1,6 @@
-//Versão do script para a 1.5F Final Version
-//ALiBAT.exe+0036D4E0  N Total Rounds (1~5)
-//ALiBAT.exe+0010A0A0  1P número de rounds ganhos (0~5)
+//Autosplit for Alibat 1.5F
+//ALiBAT.exe+0036D4E0  Total Rounds (1~5)
+//ALiBAT.exe+0010A0A0  Win rounds (0~5)
 
 state("ALiBAT")
 {
